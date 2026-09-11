@@ -21,8 +21,7 @@
 ## What is this repo?
 
 This is the **public front door** for the Busymate AI desktop app: releases, issue tracking, and
-docs. The app itself is closed-source — this repo does not contain its source code (similar in
-spirit to [Proxyman's public repo](https://github.com/ProxymanApp/Proxyman)).
+docs. The app itself is closed-source — this repo does not contain its source code.
 
 Use this repo to:
 
