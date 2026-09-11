@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Docs
+    url: https://busymate.ai/docs
+    about: How-to guides, setup, and reference documentation for Busymate AI.
+  - name: Ask your mate (in-app support)
+    url: https://busymate.ai/desktop
+    about: For account, billing, or "how do I…" questions, ask your mate inside the app — it's faster than filing an issue.
+  - name: Security issue
+    url: https://github.com/serebano/busymate-ai-desktop/security/policy
+    about: Please report security issues privately, not as a public issue — see SECURITY.md.

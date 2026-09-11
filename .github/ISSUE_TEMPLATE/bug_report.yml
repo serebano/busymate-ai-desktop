@@ -1,0 +1,67 @@
+name: Bug report
+description: Something in the Busymate AI desktop app isn't working as expected
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. This tracker is for the **desktop app**
+        specifically. For account/billing/how-to questions, ask **your mate** in the app or see
+        the [docs](https://busymate.ai/docs) instead — it'll be faster.
+  - type: input
+    id: app-version
+    attributes:
+      label: App version + build
+      description: Open the app menu → About Busymate AI. Example "Version 0.2.2 (build 3)".
+      placeholder: "0.2.2 (build 3)"
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      description: Apple menu → About This Mac.
+      placeholder: "macOS 15.1 Sequoia"
+    validations:
+      required: true
+  - type: dropdown
+    id: chip
+    attributes:
+      label: Chip
+      options:
+        - Apple Silicon (M1/M2/M3/M4)
+        - Intel
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, in order?
+      placeholder: |
+        1. Open the app
+        2. Go to ...
+        3. Click ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots / logs (optional)
+      description: Drag and drop images here, or paste any relevant text.
+    validations:
+      required: false

@@ -1,0 +1,38 @@
+name: Feature request
+description: Suggest an improvement or a new capability for the Busymate AI desktop app
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Requests here are about the **desktop app** specifically (Console, inbox, hand-off,
+        notifications, artifacts, updater, menu bar, window behavior, etc.).
+  - type: input
+    id: app-version
+    attributes:
+      label: App version + build
+      description: Open the app menu → About Busymate AI. Example "Version 0.2.2 (build 3)".
+      placeholder: "0.2.2 (build 3)"
+    validations:
+      required: false
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: What's missing or awkward today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like to see?
+      description: Your proposed solution, or how you imagine it working.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered (optional)
+    validations:
+      required: false
