@@ -3,6 +3,12 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 0.2.2 (build 4) — 2026-09-11
+
+- Menubar menu opens on left-click as well as right-click.
+
+**Download:** [`v0.2.2-build4`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v0.2.2-build4)
+
 ## 0.2.2 (build 3) — 2026-09-11
 
 - Fixed in-app Apple sign-in — the sign-in flow now completes inside the app window instead of
