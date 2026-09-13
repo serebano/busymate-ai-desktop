@@ -52,6 +52,19 @@ Builds are code-signed with a Developer ID and notarized by Apple — no Gatekee
 - In-app sign-in (Apple, with more providers on the way), auto-updates, and a native menu bar
   presence
 
+## Updates
+
+Busymate AI keeps itself current — you install it once and it stays up to date:
+
+- **Automatic.** The app checks for a newer build shortly after launch and periodically while
+  it runs, and installs it with a single click. No reinstalling from the website.
+- **On demand.** Choose **Busymate AI › Check for Updates…** (also on the menu-bar icon) to
+  check any time. You'll see what changed before installing, and the app relaunches into the
+  new version — or tells you you're already up to date.
+
+Every build is code-signed with a Developer ID and notarized by Apple, and each update is
+verified before it's applied, so an update is exactly as trusted as the original download.
+
 ## Links
 
 - **Website / product:** [busymate.ai](https://busymate.ai)
