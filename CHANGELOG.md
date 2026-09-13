@@ -3,6 +3,12 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 0.2.7 (build 10) — 2026-09-13
+
+- Automatic updates on launch and every few hours; Check for Updates… with a native dialog; the minimal About panel; one menu-bar icon.
+
+**Download:** [`v0.2.7-build10`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v0.2.7-build10)
+
 ## 0.2.6 (build 9) — 2026-09-13
 
 - Maintenance release: the same app as 0.2.5, published so the automatic updater has a newer build to install — this release is the live proof of Check for Updates › Install & relaunch.
