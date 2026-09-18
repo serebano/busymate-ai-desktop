@@ -9,7 +9,8 @@ Instead, report it privately using one of these channels:
 
 - [GitHub Security Advisories](https://github.com/serebano/busymate-ai-desktop/security/advisories/new)
   for this repository (preferred — keeps the report private until resolved)
-- Email the team via the contact details on [busymate.ai](https://busymate.ai)
+- Email [hi@busymate.ai](mailto:hi@busymate.ai) — the platform contact channel, also named in
+  [busymate.ai/.well-known/security.txt](https://busymate.ai/.well-known/security.txt)
 
 Please include:
 
