@@ -3,6 +3,14 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.0 (build 11) — 2026-09-24
+
+- Sign-in links from your browser now open the app reliably, even when the link is what launches it: a link that arrives while the app is starting, reloading or offline is no longer lost.
+- The app now declares the 14 languages the Console speaks, so macOS lists it under each of them.
+- The app also registers its own link address, ai.busymate.console://, beside busymate-ai://.
+
+**Download:** [`v1.1.0-build11`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.0-build11)
+
 ## 0.2.7 (build 10) — 2026-09-13
 
 - Automatic updates on launch and every few hours; Check for Updates… with a native dialog; the minimal About panel; one menu-bar icon.
