@@ -3,6 +3,15 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.1 (build 19) — 2026-09-25
+
+- The window's top bar is taller (40 px), with the window buttons centred in it and the same space above, below and beside every control.
+- The Console draws its matching 40 px bar only for this app, so the bar and the window buttons always line up.
+- The position of the window buttons can now be adjusted from busymate.ai without a new app download; a change applies the next time the app opens.
+- Build 19 is the same app as build 18, numbered to match the Mac App Store: the download and the store now carry the same version and build.
+
+**Download:** [`v1.1.1-build19`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.1-build19)
+
 ## 1.1.1 (build 18) — 2026-09-24
 
 - The window's top bar is taller (40 px), with the window buttons centred in it and the same space above, below and beside every control.
