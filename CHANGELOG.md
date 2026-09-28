@@ -3,6 +3,16 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.2 (build 20) — 2026-09-28
+
+- Check for Updates… is in the app menu on every version of the app: the download installs the new build itself, and the Mac App Store version opens its App Store page.
+- The window buttons sit on the same line as the Console's top bar, the same way in the download and in the Mac App Store version.
+- Widgets and previews inside a conversation now show in the app window instead of staying blank.
+- Every download is named with its version and build, for example Busymate-AI-1.1.2-build20-mac-universal.dmg, and busymate.ai/desktop shows the current version, build and release date.
+- Windows and Linux move to 1.1.2 (build 20), the same version and build as the Mac.
+
+**Download:** [`v1.1.2-build20`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.2-build20)
+
 ## 1.1.1 (build 19) — 2026-09-25
 
 - The window's top bar is taller (40 px), with the window buttons centred in it and the same space above, below and beside every control.
