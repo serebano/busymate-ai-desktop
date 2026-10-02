@@ -3,6 +3,12 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.3 (build 21) — 2026-10-02
+
+- Sign-in keeps working through the new sign-in server, and the app can now learn a new sign-in address without an app update.
+
+**Download:** [`v1.1.3-build21`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.3-build21)
+
 ## 1.1.2 (build 20) — 2026-09-28
 
 - Check for Updates… is in the app menu on every version of the app: the download installs the new build itself, and the Mac App Store version opens its App Store page.
