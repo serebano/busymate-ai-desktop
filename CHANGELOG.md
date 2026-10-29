@@ -3,6 +3,12 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.4 (build 22) — 2026-10-29
+
+- The menu-bar unread count now clears when you read everything, and the Dock badge shows the same number. Hovering the menu-bar item explains the count in your language.
+
+**Download:** [`v1.1.4-build22`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.4-build22)
+
 ## 1.1.3 (build 21) — 2026-10-02
 
 - Sign-in keeps working through the new sign-in server, and the app can now learn a new sign-in address without an app update.
