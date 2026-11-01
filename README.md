@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://busymate.ai/desktop"><b>Download for macOS</b></a> ·
+  <a href="https://busymate.ai/desktop?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop"><b>Download for macOS</b></a> ·
   <a href="https://github.com/serebano/busymate-ai-desktop/releases/latest">Latest release</a> ·
-  <a href="https://busymate.ai/docs">Docs</a> ·
+  <a href="https://busymate.ai/docs?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop">Docs</a> ·
   <a href="https://github.com/serebano/busymate-ai-desktop/issues/new/choose">Report an issue</a>
 </p>
 
@@ -35,7 +35,7 @@ Use this repo to:
 
 | Platform | Status | Get it |
 | --- | --- | --- |
-| macOS (Apple Silicon + Intel, universal) | ✅ Available | [busymate.ai/desktop](https://busymate.ai/desktop) or the [latest GitHub Release](https://github.com/serebano/busymate-ai-desktop/releases/latest) |
+| macOS (Apple Silicon + Intel, universal) | ✅ Available | [busymate.ai/desktop](https://busymate.ai/desktop?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop) or the [latest GitHub Release](https://github.com/serebano/busymate-ai-desktop/releases/latest) |
 | Windows | 🚧 Coming | not yet available |
 | Linux | 🚧 Coming | not yet available |
 
@@ -73,17 +73,17 @@ verified before it's applied, so an update is exactly as trusted as the original
 
 ## Links
 
-- **Website / product:** [busymate.ai](https://busymate.ai)
-- **Download page:** [busymate.ai/desktop](https://busymate.ai/desktop)
-- **Docs:** [busymate.ai/docs](https://busymate.ai/docs)
-- **Privacy Policy:** [busymate.ai/privacy](https://busymate.ai/privacy)
-- **Terms of Service:** [busymate.ai/terms](https://busymate.ai/terms)
+- **Website / product:** [busymate.ai](https://busymate.ai?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop)
+- **Download page:** [busymate.ai/desktop](https://busymate.ai/desktop?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop)
+- **Docs:** [busymate.ai/docs](https://busymate.ai/docs?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop)
+- **Privacy Policy:** [busymate.ai/privacy](https://busymate.ai/privacy?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop)
+- **Terms of Service:** [busymate.ai/terms](https://busymate.ai/terms?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop)
 - **License:** proprietary, see [EULA.md](EULA.md)
 
 ## Support
 
 For account, billing, or "how do I…" questions, ask **your mate** inside the app or the
-[docs](https://busymate.ai/docs) — that's the fastest path to an answer. This tracker is for
+[docs](https://busymate.ai/docs?utm_source=github&utm_medium=readme&utm_campaign=busymate-ai-desktop) — that's the fastest path to an answer. This tracker is for
 **bugs and feature requests** in the desktop app itself. See
 [SECURITY.md](SECURITY.md) to report a security issue privately.
 
