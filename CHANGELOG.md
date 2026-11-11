@@ -3,6 +3,12 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.6 (build 24) — 2026-11-11
+
+- Busymate AI now requires macOS 13.3 or later, the macOS version it is built and tested for. On an older Mac, keep the version you have.
+
+**Download:** [`v1.1.6-build24`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.6-build24)
+
 ## 1.1.5 (build 23) — 2026-11-01
 
 - A richer menu-bar menu: unread count, quick actions, Preferences and About.
