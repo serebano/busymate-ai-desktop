@@ -3,6 +3,13 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.6 (build 25) — 2026-11-13
+
+- Busymate AI requires macOS 13.3 or later, the macOS version it is built and tested for. On an older Mac, keep the version you have.
+- Mac App Store copy: the app keeps this Mac's sign-in key in its own keychain, so it no longer asks for your login keychain password and stays signed in on this Mac from one launch to the next.
+
+**Download:** [`v1.1.6-build25`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.6-build25)
+
 ## 1.1.6 (build 24) — 2026-11-11
 
 - Busymate AI now requires macOS 13.3 or later, the macOS version it is built and tested for. On an older Mac, keep the version you have.
