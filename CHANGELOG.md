@@ -3,6 +3,13 @@
 All notable changes to the Busymate AI desktop app are documented here. Versions follow
 `<version> (build <build>)` as shown in the app's About panel.
 
+## 1.1.8 (build 27) — 2026-11-26
+
+- The red, yellow and green window buttons now stay lined up with the top bar beside the sidebar, however long the app has been open.
+- Voice works in the Mac app (since 1.1.7): dictate a message or have a voice conversation. macOS asks for microphone access the first time you use it.
+
+**Download:** [`v1.1.8-build27`](https://github.com/serebano/busymate-ai-desktop/releases/tag/v1.1.8-build27)
+
 ## 1.1.7 (build 26) — 2026-11-26
 
 - Dictate a message or have a voice conversation, in Console › Try it and in chat.
